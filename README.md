@@ -1,5 +1,5 @@
 # ChromoNet
-ChromoNet enhance poor quality karyograms so that it would be easier to analyze and less prone to error.
+ChromoNet enhance poor quality karyograms so that it would be easier to analyze them with less error.
 
 
 ## Instructions:
